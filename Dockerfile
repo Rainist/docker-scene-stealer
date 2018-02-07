@@ -1,4 +1,4 @@
-FROM alekzonder/puppeteer
+FROM alekzonder/puppeteer:1.0.0
 
 ENV NPM_CONFIG_PREFIX=/home/node/.npm-global
 ENV PATH=$PATH:/home/node/.npm-global/bin

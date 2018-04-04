@@ -24,7 +24,7 @@ spec:
       name: scene-stealer
     spec:
       containers:
-      - image: rainist/scene-stealer:1.0.0-workdir
+      - image: rainist/scene-stealer:1.0.2
         imagePullPolicy: IfNotPresent
         name: scene-stealer
         resources:

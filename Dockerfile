@@ -9,6 +9,6 @@ USER node
 RUN mkdir -p /home/node/app
 WORKDIR /home/node/app
 
-RUN npm i -g scene-stealer@1.0.8
+RUN npm i -g scene-stealer@1.0.9
 
 CMD ["scene-stealer"]

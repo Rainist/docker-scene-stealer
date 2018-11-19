@@ -1,4 +1,4 @@
-# scene-stealer-docker
+# docker-scene-stealer
 A Docker source repo to run [scene-stealer](https://github.com/Rainist/scene-stealer) as a container
 
 ## Why?

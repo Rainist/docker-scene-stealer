@@ -17,7 +17,7 @@ That's why it's built on top of [alekzonder/puppeteer](https://hub.docker.com/r/
 `$ docker run --init --rm -it -p 3000:3000 rainist/scene-stealer`
 
 ### As a k8s pod
-`$ kubectl create -f https://github.com/Rainist/scene-stealer-docker/blob/master/kubernetes/scene-stealer.yaml`
+`$ kubectl create -f https://github.com/Rainist/docker-scene-stealer/blob/master/kubernetes/scene-stealer.yaml`
 
 ## LICENSE
 scene-stealer-docker is MIT licensed.
